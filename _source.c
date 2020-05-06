@@ -1,4 +1,4 @@
-// The starting data of this project 29 April 2020 at the time of corona virus, Ending date is 6.
+// The starting data of this project 29 April 2020 at the time of corona virus, Ending date is 6th may.
 #include <stdio.h>
 
 #include <conio.h>
