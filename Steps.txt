@@ -1,0 +1,25 @@
+1) A heading.
+2) Option of player 1 and player 2.
+3) If player 1 {
+		i)Loading animation.
+		ii)Will come the TIC-TAC-TOE structure.
+        		iii)Show message player 1 = X And computer = O.
+       	 	iv)Will get control to the computer And put X according to the situation.
+        		v)control will Pass to the player 1 And put O according to the situation.
+        		vi)Check that can win any one if yes then go to the step "ix" if not then go step x.
+       		vii)Take a permission that play again or not if yes then go to the step "I" if not then go to the step "XI".
+        		viii)if 9 round is not complected then Perform "I" to "VII" if complected then go to the step "IX".
+        		ix)exit.
+	    }
+4) If player 2 {
+		i)Loading animation.
+        		ii)Will come the TIC-TAC-TOE structure.
+		iii)Show message player 1 = X and player 2 = Y.
+		iv)Will get control to the player 1 And put X according to the player 1 think.
+        		v)control will Pass to the player 2 And put O according to the player 2 think.
+        		vi)check that can win any one if yes vii if not then ix.
+        		vii)Show the win message. Take permission that may user want to play again? if YES the go to the step no VIII if NOT then will be exit.
+        		viii)repeat all the steps through top down approach from step no I.
+        		viii)if 9 round is not complected then Perform "I" to "VII" if complected then go to the step "IX".
+        		ix)exit. 
+	    }
